@@ -85,16 +85,4 @@ src/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
-- [Framer Motion](https://www.framer.com/motion/) for the smooth animations
-- [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
-
-## Support
-
-If you have any questions or run into issues, please open an issue in the GitHub repository.
